@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrightGyasi
-- 👀 I’m interested in web developing
+- 👀 I’m  frontend web developer
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web developing projects
+- 💞️ I’m looking to collaborate on web app projects
 - 📫 How to reach me brytgyasi1@gmail.com
 
 <!---
