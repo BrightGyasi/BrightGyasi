@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrightGyasi
-- 👀 I’m  frontend web developer
+- 👀 I’m  frontend web developer / data enthusiast
 - 🌱 I’m currently exploring code vibing
 - 💞️ I’m looking to collaborate on web app projects
 - 📫 How to reach me brytgyasi1@gmail.com
